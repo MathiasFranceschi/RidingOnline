@@ -8,7 +8,9 @@ const baladesController = {
     },
 
     async oneBalad (req, res) {
-        const post = await Post.findPost();
+        const slug = req.params.slug;
+
+        const post = await Post.findPost(slug);
         res.render('balade', {post})
     }
 
