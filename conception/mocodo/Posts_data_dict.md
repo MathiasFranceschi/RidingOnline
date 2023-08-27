@@ -1,0 +1,18 @@
+- code comment
+- title
+- content
+- note
+- code image
+- name
+- image_path
+- code post
+- title
+- content
+- slug
+- code tag
+- name
+- code user
+- firstname
+- lastname
+- email
+- password

@@ -1,0 +1,37 @@
+{
+  "width": 518,
+  "height": 254,
+  "cx": [
+    [ "tag", 48 ],
+    [ "commente", 154 ],
+    [ "comment", 276 ],
+    [ "crée", 386 ],
+    [ "user", 474 ],
+    [ "categorise", 48 ],
+    [ "post", 154 ],
+    [ "comporte", 276 ],
+    [ "image", 386 ]
+  ],
+  "cy": [
+    [ "tag", 68 ],
+    [ "commente", 68 ],
+    [ "comment", 68 ],
+    [ "crée", 68 ],
+    [ "user", 68 ],
+    [ "categorise", 194 ],
+    [ "post", 194 ],
+    [ "comporte", 194 ],
+    [ "image", 194 ]
+  ],
+  "shift": [
+    [ "commente,comment,0", 0 ],
+    [ "commente,post,0", 0 ],
+    [ "crée,comment,0", 0 ],
+    [ "crée,user,0", 0 ],
+    [ "categorise,post,0", 0 ],
+    [ "categorise,tag,0", 0 ],
+    [ "comporte,post,0", 0 ],
+    [ "comporte,image,0", 0 ]
+  ],
+  "ratio": []
+}

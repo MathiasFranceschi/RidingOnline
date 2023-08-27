@@ -1,0 +1,11 @@
+tag: code tag, name
+commente, 11 comment, 0N post
+comment: code comment, title, content, note
+crée, 11 comment, 0N user
+user: code user, firstname, lastname, email, password
+
+categorise, 1N post, 0N tag
+post: code post, title, content, slug
+comporte, 0N post, 0N image
+image: code image, name, image_path
+:

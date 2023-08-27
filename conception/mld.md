@@ -1,0 +1,7 @@
+tag: (id, name)
+tag_has_post: (tag_id, post_id)
+post: (id, title, content, slug)
+post_has_image: (post_id, image_id)
+image: (id, name, image_path)
+comment: (id, title, content, note, #user_id, #post_id)
+user: (id, firstname, lastname, email, password)

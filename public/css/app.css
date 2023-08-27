@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    
+}
+
+header {
+    width: 100%;
+    height: 5%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    height: 100px;
+    width: 100px;
+}
+
+#nav {
+    width: auto;
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__anchor {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container-balad {
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
+
+.container-balad__article {
+    width: 75%;
+    height: 30vh;
+    margin: auto;
+}
+
+.container-balad__imgcontainer {
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.container-balad__imgcontainer img {
+    max-width: 100%;
+    height: auto;
+}
